@@ -1,0 +1,32 @@
+1.版控：
+Git Server : Github、Gitlab
+Git Client : TortoiseGit、Sourcetree
+SVN Server : SVN Server 
+SVN Client : TortoiseSVN
+2.SQL
+SSMS、SQL Server
+Mysql
+3.IDE
+JAVA : Eclipse
+C# : Visual Studio
+4.編輯器
+Notepad++
+記事本
+Visual Studio Code
+5.截圖工具
+剪取工具
+Snipaste
+6.差異比對工具
+WinMerge
+7.FTP軟體
+FileZilla
+8.SSH Terminal
+PuTTY
+MobaXterm
+9.Linux
+VirtualBox
+Ubuntu
+LAMP
+10.遠端桌面連線
+11.工作排程器
+12.cmd
